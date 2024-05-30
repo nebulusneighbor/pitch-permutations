@@ -13,6 +13,9 @@ Running scale_check_7.py will print all unique rotations of 7 notes (includes ma
 
 ![known_scales_and_rotations_k7](https://github.com/nebulusneighbor/pitch-permutations/assets/15897123/d15d67b0-410b-4a5f-8da6-5fdc28166613)
 
-If you want to see a beautiful image of all possible overlaps of all scales (regardless of number of notes) you can see this image or run the respective code.
+If you want to see a beautiful image of all possible overlaps of all scales (regardless of number of notes) you can see this image or run the respective code in the code folder to generate your own.
+
+![All_Scale_Overlap_12p_1fixed](https://github.com/nebulusneighbor/pitch-permutations/assets/15897123/d4687d9a-a6ae-47fb-856c-a8dea8bc68f5)
+
 
 
